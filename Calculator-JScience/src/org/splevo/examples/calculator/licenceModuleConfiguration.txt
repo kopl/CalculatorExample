@@ -1,0 +1,2 @@
+BasicFeatures=REQUIRED_ONCE_PER_CLIENT
+<!-- Signature of module configuration: 1-->
